@@ -2,5 +2,3 @@
 This repository showcases my first project built with React.
 <br/>
 Author Name - Suryansh Pandey
-<br/>
-Change
